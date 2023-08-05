@@ -1,0 +1,2 @@
+# MERGE-SORT-PROJESI
+VERİ YAPILARI VE ALGORİTMALAR merge sort projesi
